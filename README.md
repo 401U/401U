@@ -1,3 +1,15 @@
+Follow me:
+
+<a rel="me" href="https://eihei.net/@YehowahLiu">Mastodon</a>
+
+<a rel="me" href="https://4o1.to/bilibili">Bilibili</a>
+
+
+Buy me a coffee:
+
+<a rel="me" href="https://afdian.net/@YehowahLiu">afdian</a>
+
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=YehowahLiu&include_all_commits=true&count_private=true&show_icons=true&custom_title=Github%20stats&theme=codeSTACKr"
