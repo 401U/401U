@@ -7,7 +7,7 @@ Follow me:
 
 Buy me a coffee:
 
-<a rel="me" href="https://afdian.net/@YehowahLiu">afdian</a>
+<a rel="me" href="https://afdian.net/a/401Unauthorized">afdian</a>
 
 
 <picture>
