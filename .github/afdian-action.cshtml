@@ -1,5 +1,8 @@
 @{
     var viewModel = (Afdian.Action.ViewModels.AfdianViewModel)@Model;
+    string meUserId = "bef61c4499ab11e9acc752540025c377";
+    // 排除自己
+    viewModel.Sponsor.data.list = viewModel.Sponsor.data.list.Where(m => m.user.user_id != meUserId).ToList();
 }
 
 @for (int i = 0; i < viewModel.Sponsor.data.list.Count(); i++)
@@ -14,7 +17,7 @@
 }
 
 <details>
-  <summary>Afadian Sponser details</summary>
+  <summary>Details</summary>
 
 @for (int i = 0; i < viewModel.Sponsor.data.list.Count(); i++)
 {
@@ -45,7 +48,7 @@
 <a href="https://afdian.net/u/@sponsorItem.user.user_id">
 @sponsorItem.user.name
 </a>
-<span>( @orderNum Times, ￥@totalMoney in total) Latest comment: @remarks</span><br>
+<span>( @orderNum times, ￥@totalMoney in total) Comment: @remarks</span><br>
 }
 
 </details>
