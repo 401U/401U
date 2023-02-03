@@ -1,11 +1,17 @@
-Follow me:
+<h2 align="center">Hi! It's YehowahLiu here!</h2>
+<p align="center">
+  <a href="https://4o1.to/bilibili" rel="me">Bilibili</a> •
+  <a href="https://4o1.to/kook" rel="me">Kook</a> •
+  <a href="https://eihei.net/@YehowahLiu" rel="me">Mastodon</a>
+</p>
 
-<a rel="me" href="https://eihei.net/@YehowahLiu">Mastodon</a>
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/YehowahLiu/sponsors/sponsors.svg">
+</p>
 
-<a rel="me" href="https://4o1.to/bilibili">Bilibili</a>
-
+<p align="center">
 <picture>
-<source 
+<source
   srcset="https://github-readme-stats.vercel.app/api?username=YehowahLiu&include_all_commits=true&count_private=true&show_icons=true&custom_title=Github%20stats&theme=codeSTACKr"
   media="(prefers-color-scheme: dark)"
 />
@@ -15,5 +21,4 @@ Follow me:
 />
 <img src="https://github-readme-stats.vercel.app/api?username=YehowahLiu&include_all_commits=true&count_private=true&show_icons=true&custom_title=Github%20stats&theme=swift" />
 </picture>
-
-<br />
+</p>
