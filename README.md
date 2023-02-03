@@ -17,9 +17,3 @@ Follow me:
 </picture>
 
 <br />
-
-## Sponsers
-
-From [afdian](https://afdian.net/a/401Unauthorized)：
-<!-- AFDIAN-ACTION:START -->
-<!-- AFDIAN-ACTION:END -->
