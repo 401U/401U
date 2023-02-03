@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/YehowahLiu/sponsors/sponsors.svg">
+  <a href="https://4o1.to/afdian">
+    <img src="https://cdn.jsdelivr.net/gh/YehowahLiu/sponsors/sponsors.svg">
+  </a>
 </p>
 
 <p align="center">
