@@ -3,7 +3,7 @@
   <a href="https://4o1.to/bilibili" rel="me">Bilibili</a> •
   <a href="https://4o1.to/kook" rel="me">Kook</a> •
   <a href="https://4o1.to/afdian" rel="me">Afdian</a> •
-  <a href="https://mastodon.social/@401Unauthorized" rel="me">Mastodon</a>
+  <a href="https://misskey.io/@401Unauthorized" rel="me">Misskey</a>
 </p>
 
 <p align="center">
