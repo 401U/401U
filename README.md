@@ -13,10 +13,10 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://cdn.jsdelivr.net/gh/401U/static/contribution-snake.svg"
+  srcset="https://cdn.jsdelivr.net/gh/401U/static/snk/contribution-snake.svg"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://cdn.jsdelivr.net/gh/401U/static/contribution-snake.svg" />
+<img src="https://cdn.jsdelivr.net/gh/401U/static/snk/contribution-snake.svg" />
 </picture>
 </p>
 
