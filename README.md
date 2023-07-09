@@ -25,3 +25,5 @@
     <img src="https://cdn.jsdelivr.net/gh/401U/static/sponsors/en.svg">
   </a>
 </p>
+
+[![](https://visitcount.itsvg.in/api?id=401U&label=Profile%20Views&color=6&icon=3&pretty=true)](https://visitcount.itsvg.in)
