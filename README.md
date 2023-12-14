@@ -1,10 +1,10 @@
 <h1 align="center">Hi! It's 401U here!</h1>
 
-<h3>Using IDE</h3>
+<h3>IDE</h3>
 <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea">
 
 <h3>Skills</h3>
-<img src="https://skillicons.dev/icons?i=go,kotlin,py,java,ktor,js,ts,html,vue,nuxtjs,git,gradle,linux,docker,mysql">
+<img src="https://skillicons.dev/icons?i=go,kotlin,py,java,ktor,js,html,git,gradle,linux,docker">
 
 <h3>Wakatime</h3>
 <picture align="center">
