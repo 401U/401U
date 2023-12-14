@@ -4,7 +4,7 @@
 <img src="https://skillicons.dev/icons?i=vscode,androidstudio,idea">
 
 <h3>Skills</h3>
-<img src="https://skillicons.dev/icons?i=go,kotlin,py,java,ktor,js,ts,html,vue,nuxtjs,git,gradle,linux,docker,mysql&perline=5">
+<img src="https://skillicons.dev/icons?i=go,kotlin,py,java,ktor,js,ts,html,vue,nuxtjs,git,gradle,linux,docker,mysql">
 
 <h3>Wakatime</h3>
 <picture align="center">
